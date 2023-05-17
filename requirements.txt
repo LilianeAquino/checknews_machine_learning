@@ -17,3 +17,7 @@ summarytools==0.2.3
 bs4==0.0.1
 html5lib==1.1
 emoji==2.2.0
+pep8==1.7.1
+autopep8==2.0.2
+xgboost==1.7.5
+imbalanced-learn==0.10.1
